@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Serenity-FrontStack"
+title                    : "FrontStack"
 title_separator          : "-"
-name                     : &name "Michael Rose"
-description              : &description "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
-url                      : https://serenity-frontstack.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "FrontStack"
+description              : &description "Technical revolution in the Frontend. More Quality, More Productivity, More Scope."
+url                      : https://serenity-frontstack.github.io/ #http://localhost:4000 # serenity-frontstack.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "serenity-frontstack/serenity-frontstack.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "mmistakes"
+  username               : &twitter "serenityFront"
 facebook:
-  username               : &facebook "michaelrose"
+  username               : # &facebook "michaelrose"
   app_id                 :
   publisher              :
 og_image                 : "site-logo.png" # Open Graph/Twitter default site image
@@ -74,27 +74,27 @@ social:
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-2011187-3"
+    tracking_id          : # "UA-2011187-3"
 
 
 # Site Author
 author:
   name             : *name
-  avatar           : "michael-rose.jpg"
-  bio              : "Just another boring, tattooed, time traveling, designer."
-  location         : "Buffalo, NY"
-  email            :
-  uri              : "https://mademistakes.com"
+  avatar           : "frontstack-avatar.png"
+  bio              : "Technical revolution in the Frontend. More Quality, More Productivity, More Scope."
+  location         : "Madrid, SPAIN"
+  email            : "serenity.frontstack@gmail.com"
+  uri              : "www.isban.com/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : *facebook
+  facebook         : #*facebook
   foursquare       :
-  github           : "mmistakes"
+  github           : "serenity-frontstack"
   google_plus      :
   keybase          :
-  instagram        : "mmistakes"
+  instagram        : 
   lastfm           :
   linkedin         :
   pinterest        :
@@ -106,7 +106,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "VKdSP47XahRYJpvfA7inmg"
 
 
 # Reading Files
