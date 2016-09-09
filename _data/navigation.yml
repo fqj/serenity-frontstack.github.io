@@ -21,6 +21,8 @@ foo:
 
 # main links links
 main:
+   - title: "Home"
+     url: /
    - title: "Angular"
      url: /angular/
    - title: "Blog" 

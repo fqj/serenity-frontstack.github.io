@@ -11,7 +11,7 @@ title                    : "FrontStack"
 title_separator          : "-"
 name                     : &name "FrontStack"
 description              : &description "Technical revolution in the Frontend. More Quality, More Productivity, More Scope."
-url                      : https://serenity-frontstack.github.io/ #http://localhost:4000 # serenity-frontstack.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://serenity-frontstack.github.io #http://localhost:4000 # serenity-frontstack.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "serenity-frontstack/serenity-frontstack.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -84,7 +84,7 @@ author:
   bio              : "Technical revolution in the Frontend. More Quality, More Productivity, More Scope."
   location         : "Madrid, SPAIN"
   email            : "serenity.frontstack@gmail.com"
-  uri              : "www.isban.com/"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
