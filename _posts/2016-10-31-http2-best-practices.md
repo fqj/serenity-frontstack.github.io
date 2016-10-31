@@ -9,8 +9,6 @@ tags:
   - SPDY
 ---
 
-# HTTP/2 - Best practices on web applications
-
 # Will We Have To Change Our Websites?
 
 **HTTP/2 is backwards-compatible with HTTP/1.1**, so it would be possible to ignore it completely and everything will continue to work as before. The protocol change is completely transparent to users. Many readers of this article will have been using a protocol other than HTTP/1.1 for years. If you have a Gmail account and use Chrome to access it you will have been using SPDY and then HTTP/2 without knowing anything about it.
