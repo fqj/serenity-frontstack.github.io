@@ -11,7 +11,7 @@ tags:
 ---
 
 # Angular 4
-![](./angular4announcement.png)
+![](/images/angular4announcement.png)
 
 Angular 4 has been a shocking advertisement for everyone. We just witnessed the arrival of Angular 2 last year, 
 after releases each week, to the point where it is now: Angular 2.4.X. 
@@ -22,7 +22,7 @@ previous versions (with deprecation pashes). A very different movement to what P
 ## Why Angular 4? What happens with Angular 3?
 The main reason is that image:
 
-![](./angular2-versions.png)
+![](/images/angular2-versions.png)
 
 @angular/router package is guilty of the new Angu lar name because his version is 3.x.x, that differs of the real version of angular. 
 Angular team just wants to give consistency of named to his packages and advance the named 4.x.x of all its versions.
@@ -44,10 +44,10 @@ From the official post:
 
 The calendar would look like this:
 
-![](./angular4-tentativeschedule.png)
+![](/images/angular4-tentativeschedule.png)
 
 # Predictable, Transparent & Incremental Evolution
-![](./angular-releases.png)
+![](/images/angular-releases.png)
 
 # Conclusion
 
