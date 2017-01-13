@@ -51,7 +51,7 @@ The calendar would look like this:
 
 # Conclusion
 
-New updates will be more active.
-But in other words, means a new major release each 6 months involves fix breaking changes with deprecation phases. We'll have to maintain and adapt our code to be updated.
+New updates mean a framework more active.
+But the most important part, means a new major release each 6 months involves fix breaking changes with deprecation phases. We'll have to maintain and adapt our code to be updated.
 
 Official post: [http://angularjs.blogspot.com.es/2016/12/ok-let-me-explain-its-going-to-be.html](http://angularjs.blogspot.com.es/2016/12/ok-let-me-explain-its-going-to-be.html)
