@@ -1,0 +1,9 @@
+_id: 7c048b60-f1eb-11e6-aa4c-d72dbee07ea5
+message: >-
+  Your fork npm install does not install your version with components
+  annotation, just installs the gulp-ngdocs packages with no tag for components.
+name: Felix
+email: 7bcf933485861df592b077db995014d3
+url: ''
+hidden: ''
+date: '2017-02-13T12:53:58.657Z'
